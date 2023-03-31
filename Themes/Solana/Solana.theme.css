@@ -24,12 +24,12 @@
     */
 
     /* color control */
-    --accent-hue: 213;
-    --accent-saturation: 100%;
+    --accent-hue: 291;
+    --accent-saturation: 85%;
     --accent-brightness: 50%;
-    --background-accent-hue: 213;
+    --background-accent-hue: 291;
     --background-accent-saturation: 100%;
-    --background-accent-brightness: 50%;
+    --background-accent-brightness: 25%;
 
     /* background image */
     --background-image: initial;
@@ -54,9 +54,9 @@
     --window-accent-tint-strength: 5%;
 
     /* chat */
-    --chat-bubble: 0;
-    --chat-bubble-background-color: var(--background-primary);
-    --chat-bubble-border-color: var(--background-primary-border-color);
+    --chat-bubble: 1;
+    --chat-bubble-background-color: #820a68;
+    --chat-bubble-border-color: #ea0eba;
     --text-link-hue: 212;
     --chat-text-brightness: 0;
 
@@ -78,9 +78,9 @@
     --enable-floating-transparency: 1;
 
     /* font */
-    --custom-font-display: "";
-    --custom-font-regular: "";
-    --custom-font-primary: "";
+    --custom-font-display: "SF Pro";
+    --custom-font-regular: "SF Pro";
+    --custom-font-primary: "SF Pro";
     --custom-font-code: "";
 
     /* other */
